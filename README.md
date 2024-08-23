@@ -1,0 +1,1 @@
+This project is a real-time route optimization application that calculates the shortest possible path from a source node to every other node in the network. It utilizes Dijkstra's algorithm, a popular graph traversal algorithm, to find the most efficient paths. The application is built using HTML, CSS, and JavaScript.
